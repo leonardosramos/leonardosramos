@@ -2,7 +2,7 @@
 
 My name is Leonardo.
 
-i'm a Control and Automation Engineer studying and playing with code and electronics!
+i'm a Developer and Control and Automation Engineer studying and playing with code and electronics!
   
   ##
  
