@@ -4,7 +4,7 @@
 
 **Now** — Information Systems undergraduate at Universidade Santa Cecília
 
-**Formerly** — Control and Automation Engineering student
+**Formerly** — Control and Automation Engineering student at Instituto Federal de São Paulo
 #
 
 ```java
