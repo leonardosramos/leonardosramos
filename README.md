@@ -17,7 +17,7 @@ public class Leonardo {
 
 I'm currently studying:
 
-`Angular`
+`Angular` >(Link do meu resumo no notion: https://app.notion.com/p/Estudos-Angular-19-36cbba3f6777803abf54df87a4a87356?source=copy_link )
 
 `Java (Spring Boot)`
 
