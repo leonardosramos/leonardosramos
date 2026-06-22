@@ -1,13 +1,34 @@
-## Wellcome!
+# Hello!
 
-My name is Leonardo.
+### I'm Leonardo, a computing student who has been learning everything I can about computers since I was a kid.
 
-i'm a Developer and Control and Automation Engineer studying and playing with code and electronics!
-  
-  ##
- 
-<div> 
-  <a href = "mailto:leonardosr793@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-da-silva-ramos-263a73261/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/leonardo-da-silva-ramos-263a73261/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-</div>
+**Now** — Information Systems undergraduate at Universidade Santa Cecília
+
+**Formerly** — Control and Automation Engineering student
+#
+
+```java
+public class Leonardo {
+    public static void main(String[] args) {
+        System.out.println("Welcome to my repositories!");
+    }
+}
+```
+
+I'm currently studying:
+
+`Angular`
+
+`Java (Spring Boot)`
+
+`.NET (ASP.NET)`
+
+And I'm also an IT Support Intern at AmorSaúde, one of the largest healthcare clinic networks in Brazil.
+#
+My goal is to work with programming, build software of my own, and continuously improve my efficiency, speed, and code quality.
+
+> "Seek strength... the rest will follow."
+> 
+> 
+> — King Vendrick
+>
